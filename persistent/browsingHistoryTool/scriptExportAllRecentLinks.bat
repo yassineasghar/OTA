@@ -1,0 +1,1 @@
+BrowsingHistoryView.exe /VisitTimeFilterType 5 /VisitTimeFilterValue 1 /sort "~Visit Time" /shtml report.html
